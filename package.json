@@ -8,6 +8,7 @@
   },
   "author": "Daniel Henrique",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.15.4",
     "nodemon": "^1.10.2"
   },
