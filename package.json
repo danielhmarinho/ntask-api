@@ -8,9 +8,13 @@
   },
   "author": "Daniel Henrique",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "consign": "^0.1.6",
     "express": "^4.15.4",
+    "jwt-simple": "^0.5.1",
     "nodemon": "^1.10.2",
+    "passport": "^0.4.0",
+    "passport-jwt": "^3.0.0",
     "sequelize": "^4.13.5",
     "sqlite3": "^3.1.13"
   },
